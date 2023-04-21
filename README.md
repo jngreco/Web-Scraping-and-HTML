@@ -53,7 +53,6 @@ Open the Jupyter Notebook in the starter code folder named `part_2_mars_weather.
 4. Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
 
 5. Analyze your dataset by using Pandas functions to answer the following questions:
-
   * How many months exist on Mars?
   * How many Martian (and not Earth) days worth of data exist in the scraped dataset?
   * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
